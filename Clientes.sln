@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clientes.DAO", "Clientes.DAO\Clientes.DAO.csproj", "{F79A939F-9142-46C7-9DD3-ACE8D704F467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clientes.Web", "Clientes.Web\Clientes.Web.csproj", "{E7FD7E79-56CF-47F9-9E6F-D8B751934768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79A939F-9142-46C7-9DD3-ACE8D704F467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79A939F-9142-46C7-9DD3-ACE8D704F467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79A939F-9142-46C7-9DD3-ACE8D704F467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79A939F-9142-46C7-9DD3-ACE8D704F467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FD7E79-56CF-47F9-9E6F-D8B751934768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FD7E79-56CF-47F9-9E6F-D8B751934768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FD7E79-56CF-47F9-9E6F-D8B751934768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FD7E79-56CF-47F9-9E6F-D8B751934768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B240CBB9-D6DD-4A7E-A30D-B66537A49566}
+	EndGlobalSection
+EndGlobal

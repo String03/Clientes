@@ -1,0 +1,14 @@
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\bin\Debug\net6.0\Clientes.DAO.deps.json
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\bin\Debug\net6.0\Clientes.DAO.runtimeconfig.json
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\bin\Debug\net6.0\Clientes.DAO.dll
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\bin\Debug\net6.0\Clientes.DAO.pdb
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.csproj.AssemblyReference.cache
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.AssemblyInfoInputs.cache
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.AssemblyInfo.cs
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.dll
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\refint\Clientes.DAO.dll
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.pdb
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\Clientes.DAO.genruntimeconfig.cache
+C:\Users\fvg\Desktop\Clientes\Clientes.DAO\obj\Debug\net6.0\ref\Clientes.DAO.dll
